@@ -1,2 +1,2 @@
-# seq-predict
-Predict the next number in a sequence.
+# tiny-ai
+Very tiny AI for finding patterns in number sequences.
